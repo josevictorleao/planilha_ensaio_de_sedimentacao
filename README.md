@@ -1,4 +1,10 @@
-Para utilização da planilha é necessário baixar o pacote de interpolações disponibilizado gratuitamente no seguinte link:
+FAÇA O DOWNLOAD DA "PLANILHA_ENSAIO_SEDIMENTAÇÃO.XLSM" E DO "SETUP.EXE".
 
-http://www.srs1software.com/SRS1CubicSplineForExcel.aspx
+EXECUTE O SETUP.EXE.
 
+OBRIGADO POR UTILIZAR O PROGRAMA!
+
+JOSÉ VICTOR LEÃO DE OLIVEIRA
+ACADÊMICO DE ENGENHARIA AMBIENTAL
+INSTITUTO FEDERAL GOIANO - CAMPUS RIO VERDE
+(64) 98405-0090
