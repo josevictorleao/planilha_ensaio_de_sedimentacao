@@ -1,3 +1,5 @@
+                                      INSTRUÇÕES
+
 FAÇA O DOWNLOAD DA "PLANILHA_ENSAIO_SEDIMENTAÇÃO.XLSM" E DO "SETUP_CS.EXE".
 
 EXECUTE O "SETUP_CS.EXE".
